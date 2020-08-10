@@ -2,13 +2,13 @@
 #include<iostream>
 #include<string>
 using namespace std;
-class point
+class Point
 {
 private:
 	int x;
 	int y;
 public:
-	void setPoint(int x, int y) {
+	void setPorint(int x, int y) {
 		this->x = x;
 		this->y = y;
 	}

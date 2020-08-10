@@ -1,6 +1,5 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-
 class A {
 public:
 	A() { cout << "»ý¼ºÀÚ A" << endl; }

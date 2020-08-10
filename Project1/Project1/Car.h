@@ -1,6 +1,7 @@
 #pragma once
 #include<iostream>
 using namespace std;
+
 class Car
 {
 public:
@@ -9,6 +10,5 @@ public:
 	void honk();
 private:
 	int speed;
-
 };
 
